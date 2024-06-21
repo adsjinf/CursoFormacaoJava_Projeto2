@@ -10,5 +10,5 @@
 </div><br/>
 
 <h5>
-Repositório de exercício da Formação Java Web Full-Stack e Spring Boot REST API
+Repositório de Projeto2 da Formação Java Web Full-Stack e Spring Boot REST API
 </h5>
